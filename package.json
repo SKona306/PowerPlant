@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/cat-denton/jsEnvTemplate#readme",
   "devDependencies": {
+    "@babel/core": "^7.6.4",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.2.0",
     "eslint": "^6.3.0",
