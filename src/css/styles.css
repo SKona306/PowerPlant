@@ -1,3 +1,23 @@
 body {
   background-color: peachpuff;
 }
+
+.plants {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+img {
+  width: auto;
+  height: 200px;
+  margin-left: 2rem;
+}
+
+
+button {
+  margin: 5px;
+  padding: 5px;
+  border-radius:12px ;
+}
